@@ -33,6 +33,12 @@
           "single": true
         },
         {
+          "title": "Locale",
+          "name": "inLanguage",
+          "type": "string",
+          "single": true
+        },
+        {
           "title": "Keywords",
           "name": "keywords",
           "type": "tags"
@@ -80,6 +86,7 @@
           "type": "divider"
         },
         {
+          "name": "Optional Fields",
           "title": "Optional Fields",
           "type": "heading"
         },
