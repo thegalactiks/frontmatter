@@ -96,6 +96,13 @@
           "type": "string",
           "required": false,
           "single": true
+        },
+        {
+          "title": "Path",
+          "name": "path",
+          "type": "string",
+          "required": false,
+          "single": true
         }
       ]
     }
