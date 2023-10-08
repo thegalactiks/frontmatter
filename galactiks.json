@@ -103,6 +103,21 @@
           "type": "string",
           "required": false,
           "single": true
+        },
+        {
+          "title": "Translation of Work",
+          "type": "fields",
+          "name": "translationOfWork",
+          "required": false,
+          "fields": [
+            {
+              "title": "Original work identifier",
+              "name": "@id",
+              "type": "string",
+              "required": false,
+              "single": true
+            }
+          ]
         }
       ]
     }
