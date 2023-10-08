@@ -23,7 +23,7 @@
         {
           "title": "identifier",
           "name": "identifier",
-          "type": "string",
+          "type": "slug",
           "single": true
         },
         {
